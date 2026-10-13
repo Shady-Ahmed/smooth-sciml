@@ -5,9 +5,22 @@ type: software
 authors:
   - family-names: Howard
     given-names: Amanda A.
+    affiliation: "Pacific Northwest National Laboratory"
+    orcid: "https://orcid.org/0000-0001-9457-3755"
   - family-names: Stinis
     given-names: Panos
+    affiliation: "Pacific Northwest National Laboratory"
+    orcid: "https://orcid.org/0000-0002-0941-8067"
   - family-names: Ahmed
     given-names: Shady E.
+    affiliation: "Pacific Northwest National Laboratory"
+    orcid: "https://orcid.org/0000-0002-3860-2621"
 repository-code: "https://github.com/searhein/smooth-sciml"
 license: GPL-3.0-only
+keywords:
+  - "operator learning"
+  - "deeponet"
+  - "multifidelity"
+  - "scientific machine learning"
+  - "physics-informed neural networks"
+  - "reduced-order modeling"

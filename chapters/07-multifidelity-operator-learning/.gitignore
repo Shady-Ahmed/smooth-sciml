@@ -1,0 +1,29 @@
+# Python caches and environments
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+env/
+venv/
+
+# Model checkpoints and binary weight files
+*.eqx
+*.pkl
+*.pickle
+
+# Numerical datasets and simulation outputs
+*.npy
+*.npz
+data/
+outputs/
+burgers-data/
+
+# Generated plot images and PDFs
+plots/
+*.png
+*.pdf
+
+# System artifacts
+.DS_Store
+Thumbs.db

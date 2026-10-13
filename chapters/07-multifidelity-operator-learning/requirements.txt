@@ -1,2 +1,11 @@
-# Add this chapter's pinned Python dependencies, one per line.
-# Example: numpy==2.3.2
+# Pinned Python dependencies for Chapter 7: Multifidelity Operator Learning
+# Compatible with Python 3.10 and 3.11
+numpy>=1.26.0,<2.0.0
+scipy>=1.11.0
+matplotlib>=3.8.0
+jax>=0.4.26
+jaxlib>=0.4.26
+equinox>=0.11.4
+optax>=0.2.2
+jaxtyping>=0.2.28
+tqdm>=4.66.0
